@@ -1,0 +1,6 @@
+1. podaj wartosci a,b,c
+2. jezeli a = 0 -> to nie jest rownanie kwadratowe
+3. oblicz delte
+4. jezeli delta  > 0 -> oblicz 2 pierwiastki
+5. jezeli delta = 0  -> oblicz 1 pierwiastek
+6. jezeli delta < 0 -> nie ma rozwiazan
